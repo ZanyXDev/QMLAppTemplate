@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/fonts/681-font.otf</file>
+        <file>res/fonts/mailrays.ttf</file>
+        <file>res/fonts/nasalization-rg.otf</file>
+        <file>res/fonts/digital-7.ttf</file>
+    </qresource>
+</RCC>
